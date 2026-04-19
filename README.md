@@ -11,6 +11,8 @@ Codespaces runs a fully configured development environment in your browser — n
 3. You're ready — the terminal, compiler, and debugger are all set up.
 
 > **Free tier:** GitHub gives every account 60 free Codespaces hours per month, which is more than enough for this course. Just remember to **stop your Codespace** when you're done working. You can do this from the bottom-left status bar in VS Code (→ "Stop Current Codespace"), or by visiting [github.com/codespaces](https://github.com/codespaces) and stopping it from there.
+>
+> **Need more hours?** Apply for the [GitHub Student Developer Pack](https://education.github.com/pack) using your `.edu` email. Once approved, your account is upgraded to Pro, which includes 90 Codespaces hours per month.
 
 ## Option 2: Local Development (VS Code + Docker)
 
