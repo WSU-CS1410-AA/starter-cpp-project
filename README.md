@@ -1,4 +1,4 @@
-# C++ Starter Project
+# A C++ Starter Project
 
 This is your C++ workspace for CS 1410, pre-configured with a compiler, debugger, and build system.
 
